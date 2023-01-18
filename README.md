@@ -8,6 +8,7 @@
 [Credible Mechanisms, Akbarpour et al.](https://web.stanford.edu/~mohamwad/CredibleMechanisms.pdf)
 - Defining credible mechanisms: incentive compatible for the auctioneer to follow the rules
 
+
 ## Multiparty Computation
 
 [How to Play Any Mental Game, Goldreich et al.](https://www.math.ias.edu/~avi/PUBLICATIONS/MYPAPERS/GMW87/GMW87.pdf)
@@ -18,6 +19,7 @@
 
 [Fairness in an Unfair World: Fair Multiparty Computation from Public Bulletin Boards, Choudhuri et al.](https://dl.acm.org/doi/pdf/10.1145/3133956.3134092)
 - Fairness can be achieved when half the parties are dishonest when posting output to a public bulletin
+
 
 ## Miner Extractable Value (MEV)
 
