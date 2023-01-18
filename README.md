@@ -16,5 +16,10 @@
 [Limits on the Security of Coin Flips When Half the Processors are Faulty, R. Cleve](https://dl.acm.org/doi/pdf/10.1145/12130.12168)
 - Fair MPC can't be achieved when half the parties are dishonest
 
-[Fairness in an Unfair World: Fair Multiparty Computation from Public Bulletin Boards](https://dl.acm.org/doi/pdf/10.1145/3133956.3134092)
+[Fairness in an Unfair World: Fair Multiparty Computation from Public Bulletin Boards, Choudhuri et al.](https://dl.acm.org/doi/pdf/10.1145/3133956.3134092)
 - Fairness can be achieved when half the parties are dishonest when posting output to a public bulletin
+
+## Miner Extractable Value (MEV)
+
+[Flash Boys 2.0: Frontrunning in Decentralized Exchanges, Miner Extractable Value, and Consensus Instability, Daian et al.](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9152675)
+- Overview of MEV, priotrity gas auctions (PGAs) and the risks they pose on blockchains
