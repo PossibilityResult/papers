@@ -25,3 +25,12 @@
 
 [Flash Boys 2.0: Frontrunning in Decentralized Exchanges, Miner Extractable Value, and Consensus Instability, Daian et al.](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9152675)
 - Overview of MEV, priotrity gas auctions (PGAs) and the risks they pose on blockchains
+
+
+## DeFi
+
+[Replicating Market Makers, Angeris et al.](https://arxiv.org/pdf/2103.14769.pdf)
+
+## Consensus 
+
+[Narwhal and Tusk: A DAG-based Mempool and Efficient BFT Consensus](https://arxiv.org/pdf/2105.11827.pdf)
