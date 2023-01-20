@@ -30,7 +30,9 @@
 ## DeFi
 
 [Replicating Market Makers, Angeris et al.](https://arxiv.org/pdf/2103.14769.pdf)
+- Replicating different portfolio values with liquidity provider positions in automated market makers
 
 ## Consensus 
 
 [Narwhal and Tusk: A DAG-based Mempool and Efficient BFT Consensus](https://arxiv.org/pdf/2105.11827.pdf)
+- Fast and high throughput blockchain design through separating out mempool generation and consensus
