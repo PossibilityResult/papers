@@ -35,4 +35,4 @@
 ## Consensus 
 
 [Narwhal and Tusk: A DAG-based Mempool and Efficient BFT Consensus](https://arxiv.org/pdf/2105.11827.pdf)
-- Fast and high throughput blockchain design through separating out mempool generation and consensus
+- Fast and high throughput blockchain design through separating out DAG-based mempool generation and consensus
